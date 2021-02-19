@@ -1,6 +1,6 @@
 {
   "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @moviezonlysupport!",
+  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by (Cinemapranthanmar)[t.me/cinemapranthanmaar]",
   "keywords": [
     "telegram",
     "best",
@@ -13,9 +13,9 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://githhttps://github.com/prgofficial/TorrentLeech-GDriVe",
-  "success_url": "https://t.me/moviezonlysupport",
-  "website": "https://github.com/prgofficial/TorrentLeech-GDriVe",
+  "repository": "https://github.com/Sh-Jil/LeechToFile",
+  "success_url": "https://t.me/cinemapranthanmaar",
+  "website": "https://github.com/Sh-Jil/LeechToFile",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -23,23 +23,23 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "1479154"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "6b21cb22818e09132fb904705c31d3a1"
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": ""
+      "value": "1653093114:AAHyd4cAbuvleyPBYWds8DavLIV3Fnt1uzo"
     },
     "AUTH_CHANNEL": {
       "description": "should be an integer. The ID of the Telegram Group, where the Leecher should work.",
-      "value": ""
+      "value": "-1001474921230"
     },
     "OWNER_ID": {
       "description": "should be an integer. ID of owner of bot",
-      "value": ""
+      "value": "727037917"
     },
     "CHUNK_SIZE": {
       "description": "should be an integer",
