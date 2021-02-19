@@ -9,7 +9,7 @@ class Config(object):
     OWNER_ID =  727037917
     # Get these values from my.telegram.org
     # to store the channel ID who are authorized to use the bot
-    AUTH_CHANNEL = -1001474921230
+    AUTH_CHANNEL = 1001474921230
     
 
 
